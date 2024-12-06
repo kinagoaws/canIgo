@@ -1,0 +1,25 @@
+Your identification has been saved in /home/ec2-user/.ssh/id_rsa
+Your public key has been saved in /home/ec2-user/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:k8E8BKgNYKd+tzVHm4xoQRTgti0DZhRx649WA++2UMM admin@kinago.com
+The key's randomart image is:
++---[RSA 4096]----+
+|.*o+o=o..        |
+|o * +  +         |
+| = O .  =.       |
+|+ = B o ++o      |
+| . * E +S=       |
+|  . @ = o.       |
+|   + =           |
+|  . o .          |
+|     .           |
++----[SHA256]-----+
+
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCnpAw6Y7kfnb+P3hVG2ynaUGLBCQzkd0HW0O6RjmxKTikiE79Eu/80LlkTNHsVF0VEVsCkNbK8oU2sLluLExfskeLIBZKduwg81yUDNLMkM38oVIprZVXYIo6MSQ1GMn4/TCTe3Qk6HvWDwm6iIukkbxpfB9qa7Pt1RC9AWAgl7zZiqcHJUg31hwmHlzLpbZQFL1evE9VZc43aAGlkUUingbV4zQwVXpHpYvHWb8KdSnH8ENBOBez0lmsSr/OfDER5Tq795IeZL0RMz9I5GYIphVH7bVCnT+2sJ76PYXYcCdJdkL0m4pVQ5DK6kQgjgHqnXcVbp3F1T8/NaCbwUpYGfnGzcFn0EnjCYvYNVAfNNHsS6rpNYMmFJzqwIKlAU34bHT3QwgjYqpa89xxkBZUb3fBi6zn28l0ioCTZjwC/BS4hcqrBycn7RoSrQFXalx3LVqAvFjS/nGNIjiU/h2snZ8t8aNPV9m8Zt2i/ovEa+BMw6qNYAnGjhi9u2yOJBDkU3jbD8eO7g9ECv0rPxssYuC2J73FOXPeLAKCd4y5wXWwM6SWO4CPJzzTR/EVZ97w2NnjVVXTVNI46F13+sJJ1Tm+DONbRGzXnp0m50TR9NhSICd2Ue5Nd13cdh2lTVIthrSnBWnB1d2DOg8GvrCm8z6A7WsyNkxmMb/X/kVRhaQ== admin@kinago.com
+
+
+
+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
